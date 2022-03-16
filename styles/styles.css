@@ -1,0 +1,67 @@
+.blog-masthead {
+
+    background-color: #b34848;
+
+}
+
+body {
+
+    font-size: 14px;
+
+}
+
+
+​ h1,
+
+.h1,
+
+h2,
+
+.h2,
+
+h3,
+
+.h3,
+
+h4,
+
+.h4,
+
+h5,
+
+.h5,
+
+h6,
+
+.h6 {
+
+    color: #b34848;
+
+}
+
+
+.blog-post-title:hover {
+
+    color: #b34848;
+    text-decoration-line: underline;
+
+}
+
+.blog-title-a:hover {
+
+    text-decoration-line: none;
+}
+
+.blog-title {
+    color: #b34848
+}
+
+.subheading-style:hover {
+    text-decoration-line: underline;
+    text-decoration-color: #b34848;
+}
+
+.heading-style:hover {
+    text-decoration-line: underline;
+    text-decoration-color: #b34848;
+}
