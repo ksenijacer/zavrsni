@@ -65,3 +65,23 @@ h6,
     text-decoration-line: underline;
     text-decoration-color: #b34848;
 }
+
+.create-post-form {
+    margin-left: 15px;
+    width: 60%;
+}
+
+.create-post-form * {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.create-author-form {
+    margin-left: 15px;
+    width: 60%;
+}
+
+.create-author-form * {
+
+    margin-bottom: 8px;
+}

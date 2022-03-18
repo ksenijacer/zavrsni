@@ -57,7 +57,7 @@ $authors = getDataFromServer($sqlGetAuthors, $connection, true);
                 </select>
                 <input type="text" name="title" id="" placeholder="Add post title" required></input>
                 <input type="date" id="date" name="created_at" placeholder="Add date"></input>
-                <textarea name="body" id="" cols="70" rows="10" placeholder="Write post text here" required>Your new post:</textarea>
+                <textarea name="body" id="" cols="70" rows="10" placeholder="Write post text here" required></textarea>
                 <br>
                 <input type="submit" name="submit" value="Add new post">
             </form>
