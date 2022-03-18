@@ -23,3 +23,9 @@ function getDataFromServer($sql, $connection, $isFetchAll)
 
   return $statement->fetch();
 };
+
+function setDataToServer($sql, $connection)
+{
+  $statement = $connection->prepare($sql);
+  $statement->execute();
+};
