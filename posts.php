@@ -6,7 +6,6 @@ $sql = "SELECT * FROM posts ORDER BY created_at DESC";
 $posts = getDataFromServer($sql, $connection, true);
 ?>
 
-<?php include('header.php'); ?>
 
 <main role="main" class="container">
     <div class="row">
